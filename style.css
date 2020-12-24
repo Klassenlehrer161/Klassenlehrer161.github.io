@@ -1,0 +1,31 @@
+img{
+    width: 100%;
+    margin: 0px;
+    display: block;
+    float: left;
+    border: 0px;
+    padding: 0px;
+}
+.bild{
+    align-self:center;
+}
+.headline{
+    font-size: 24px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-top: 100px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+.abstand{
+    margin-bottom: 100px;
+}
+
+.text{
+    text-align: left;
+    text-overflow: ellipsis;
+    margin: 10px;
+    font-family: sans-serif;
+    font-style: initial;
+}
